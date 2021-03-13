@@ -15,4 +15,4 @@ class TestCalculator:
         assert 9 == calculator.sub(10, 1)
 
     def test_mul(self):
-        assert 86 == calculator.sub(2, 43)
+        assert 86 == calculator.mul(2, 43)
